@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name: K.SANTHAN KUMAR
-### Register Number: 23004568
+### Name: T.Ajay
+### Register Number: 212223230007
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
